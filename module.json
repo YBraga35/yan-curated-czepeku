@@ -1,0 +1,3350 @@
+{
+  "id": "yan-curated-czepeku",
+  "title": "Yan's Curated Cze & Peku Collection",
+  "description": "Uma coleção consolidada de todos os pacotes de mapas de Cze & Peku, organizados para facilitar o uso e a busca dentro do Foundry VTT.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Cze and Peku",
+      "url": "https://www.czepeku.com/"
+    },
+    {
+      "name": "Yan",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12.327"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.0.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "czepeku-03-land-of-giants",
+      "label": "Cze & Peku - 003 - Land Of Giants",
+      "path": "packs/czepeku-03-land-of-giants.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-04-goblin-bridge",
+      "label": "Cze & Peku - 004 - Goblin Bridge",
+      "path": "packs/czepeku-04-goblin-bridge.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-05-abandoned-mine-entrance",
+      "label": "Cze & Peku - 005 - Abandoned Mine Entrance",
+      "path": "packs/czepeku-05-abandoned-mine-entrance.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-06-ogre-queen-feast",
+      "label": "Cze & Peku - 006 - Ogre Queen Feast",
+      "path": "packs/czepeku-06-ogre-queen-feast.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-07-mountaintop-altar",
+      "label": "Cze & Peku - 007 - Mountaintop Altar",
+      "path": "packs/czepeku-07-mountaintop-altar.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-09-fey-village",
+      "label": "Cze & Peku - 009 - Fey Village",
+      "path": "packs/czepeku-09-fey-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-10-animated-city-marketplace",
+      "label": "Cze & Peku - 010 - Animated City Marketplace",
+      "path": "packs/czepeku-10-animated-city-marketplace.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-10-city-marketplace",
+      "label": "Cze & Peku - 010 - City Marketplace",
+      "path": "packs/czepeku-10-city-marketplace.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-100-void-dragon-lair",
+      "label": "Cze & Peku - 100 - Void Dragon Lair",
+      "path": "packs/czepeku-100-void-dragon-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-101-ages-of-the-vale-1",
+      "label": "Cze & Peku - 101 - Ages Of The Vale 1",
+      "path": "packs/czepeku-101-ages-of-the-vale-1.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-102-ages-of-the-vale-2",
+      "label": "Cze & Peku - 102 - Ages Of The Vale 2",
+      "path": "packs/czepeku-102-ages-of-the-vale-2.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-103-ages-of-the-vale-3",
+      "label": "Cze & Peku - 103 - Ages Of The Vale 3",
+      "path": "packs/czepeku-103-ages-of-the-vale-3.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-104-floating-village",
+      "label": "Cze & Peku - 104 - Floating Village",
+      "path": "packs/czepeku-104-floating-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-105-clockwork-dragon-lair-exterior",
+      "label": "Cze & Peku - 105 - Clockwork Dragon Lair Exterior",
+      "path": "packs/czepeku-105-clockwork-dragon-lair-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-106-ropebridge-chasm",
+      "label": "Cze & Peku - 106 - Ropebridge Chasm",
+      "path": "packs/czepeku-106-ropebridge-chasm.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-107-victorian-greenhouse",
+      "label": "Cze & Peku - 107 - Victorian Greenhouse",
+      "path": "packs/czepeku-107-victorian-greenhouse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-108-airships-part-3",
+      "label": "Cze & Peku - 108 - Airships Part 3",
+      "path": "packs/czepeku-108-airships-part-3.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-109-clockwork-dragon-lair-interior",
+      "label": "Cze & Peku - 109 - Clockwork Dragon Lair Interior",
+      "path": "packs/czepeku-109-clockwork-dragon-lair-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-11-minotaur-labyrinth",
+      "label": "Cze & Peku - 011 - Minotaur Labyrinth",
+      "path": "packs/czepeku-11-minotaur-labyrinth.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-110-airship-port",
+      "label": "Cze & Peku - 110 - Airship Port",
+      "path": "packs/czepeku-110-airship-port.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-111-tomb-of-sand",
+      "label": "Cze & Peku - 111 - Tomb Of Sand",
+      "path": "packs/czepeku-111-tomb-of-sand.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-111-tomb-of-sand-animated",
+      "label": "Cze & Peku - 111 - Tomb Of Sand (Animated)",
+      "path": "packs/czepeku-111-tomb-of-sand-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-112-banshee-moor",
+      "label": "Cze & Peku - 112 - Banshee Moor",
+      "path": "packs/czepeku-112-banshee-moor.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-113-chthonic-lighthouse",
+      "label": "Cze & Peku - 113 - Chthonic Lighthouse",
+      "path": "packs/czepeku-113-chthonic-lighthouse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-114-abyssal-fall",
+      "label": "Cze & Peku - 114 - Abyssal Fall",
+      "path": "packs/czepeku-114-abyssal-fall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-115-badger-hill",
+      "label": "Cze & Peku - 115 - Badger Hill",
+      "path": "packs/czepeku-115-badger-hill.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-116-hangar-bay",
+      "label": "Cze & Peku - 116 - Hangar Bay",
+      "path": "packs/czepeku-116-hangar-bay.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-117-imperial-graveyard",
+      "label": "Cze & Peku - 117 - Imperial Graveyard",
+      "path": "packs/czepeku-117-imperial-graveyard.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-117-imperial-graveyard-animated",
+      "label": "Cze & Peku - 117 - Imperial Graveyard (Animated)",
+      "path": "packs/czepeku-117-imperial-graveyard-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-118-deep-sea-temple",
+      "label": "Cze & Peku - 118 - Deep Sea Temple",
+      "path": "packs/czepeku-118-deep-sea-temple.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-118-grand-hunters-house",
+      "label": "Cze & Peku - 118 - Grand Hunters House",
+      "path": "packs/czepeku-118-grand-hunters-house.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-119-pirate-lords-lair",
+      "label": "Cze & Peku - 119 - Pirate Lords Lair",
+      "path": "packs/czepeku-119-pirate-lords-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-12-adventurers-guildhall",
+      "label": "Cze & Peku - 012 - Adventurers Guildhall",
+      "path": "packs/czepeku-12-adventurers-guildhall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-120-river-stronghold",
+      "label": "Cze & Peku - 120 - River Stronghold",
+      "path": "packs/czepeku-120-river-stronghold.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-122-smugglers-fen",
+      "label": "Cze & Peku - 122 - Smugglers Fen",
+      "path": "packs/czepeku-122-smugglers-fen.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-123-desert-ruins",
+      "label": "Cze & Peku - 123 - Desert Ruins",
+      "path": "packs/czepeku-123-desert-ruins.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-124-beach-town",
+      "label": "Cze & Peku - 124 - Beach Town",
+      "path": "packs/czepeku-124-beach-town.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-126-floating-market",
+      "label": "Cze & Peku - 126 - Floating Market",
+      "path": "packs/czepeku-126-floating-market.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-127-palace-outer-court",
+      "label": "Cze & Peku - 127 - Palace Outer Court",
+      "path": "packs/czepeku-127-palace-outer-court.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-128-ruined-courtyard",
+      "label": "Cze & Peku - 128 - Ruined Courtyard",
+      "path": "packs/czepeku-128-ruined-courtyard.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-129-clifftop-warcamp",
+      "label": "Cze & Peku - 129 - Clifftop Warcamp",
+      "path": "packs/czepeku-129-clifftop-warcamp.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-13-ancient-wizards-lair",
+      "label": "Cze & Peku - 013 - Ancient Wizards Lair",
+      "path": "packs/czepeku-13-ancient-wizards-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-130-solar-cathedral",
+      "label": "Cze & Peku - 130 - Solar Cathedral",
+      "path": "packs/czepeku-130-solar-cathedral.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-131-the-forbidden-gates",
+      "label": "Cze & Peku - 131 - The Forbidden Gates",
+      "path": "packs/czepeku-131-the-forbidden-gates.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-131-the-forbidden-gates-animated",
+      "label": "Cze & Peku - 131 - The Forbidden Gates (Animated)",
+      "path": "packs/czepeku-131-the-forbidden-gates-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-132-bone-mill-exterior",
+      "label": "Cze & Peku - 132 - Bone Mill Exterior",
+      "path": "packs/czepeku-132-bone-mill-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-133-caravan-roadblock",
+      "label": "Cze & Peku - 133 - Caravan Roadblock",
+      "path": "packs/czepeku-133-caravan-roadblock.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-134-bone-mill-part-2",
+      "label": "Cze & Peku - 134 - Bone Mill Part 2",
+      "path": "packs/czepeku-134-bone-mill-part-2.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-135-animated-wonderful-wizard-waterfall",
+      "label": "Cze & Peku - 135 - Animated Wonderful Wizard Waterfall",
+      "path": "packs/czepeku-135-animated-wonderful-wizard-waterfall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-135-wonderful-wizard-waterfall",
+      "label": "Cze & Peku - 135 - Wonderful Wizard Waterfall",
+      "path": "packs/czepeku-135-wonderful-wizard-waterfall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-136-gryphon-roost-inn",
+      "label": "Cze & Peku - 136 - Gryphon Roost Inn",
+      "path": "packs/czepeku-136-gryphon-roost-inn.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-137-beachside-bazaar",
+      "label": "Cze & Peku - 137 - Beachside Bazaar",
+      "path": "packs/czepeku-137-beachside-bazaar.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-138-hellfire-prison",
+      "label": "Cze & Peku - 138 - Hellfire Prison",
+      "path": "packs/czepeku-138-hellfire-prison.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-138-hellfire-prison-animated",
+      "label": "Cze & Peku - 138 - Hellfire Prison (Animated)",
+      "path": "packs/czepeku-138-hellfire-prison-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-139-forgotten-chapel",
+      "label": "Cze & Peku - 139 - Forgotten Chapel",
+      "path": "packs/czepeku-139-forgotten-chapel.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-139-forgotten-chapel-animated",
+      "label": "Cze & Peku - 139 - Forgotten Chapel (Animated)",
+      "path": "packs/czepeku-139-forgotten-chapel-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-14-underdark-drow-manor",
+      "label": "Cze & Peku - 014 - Underdark Drow Manor",
+      "path": "packs/czepeku-14-underdark-drow-manor.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-140-court-of-justice",
+      "label": "Cze & Peku - 140 - Court Of Justice",
+      "path": "packs/czepeku-140-court-of-justice.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-140-court-of-justice-animated",
+      "label": "Cze & Peku - 140 - Court Of Justice (Animated)",
+      "path": "packs/czepeku-140-court-of-justice-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-141-tutelary-turtle-island",
+      "label": "Cze & Peku - 141 - Tutelary Turtle Island",
+      "path": "packs/czepeku-141-tutelary-turtle-island.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-142-riverwood-toll-castle",
+      "label": "Cze & Peku - 142 - Riverwood Toll Castle",
+      "path": "packs/czepeku-142-riverwood-toll-castle.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-142-riverwood-toll-castle-animated",
+      "label": "Cze & Peku - 142 - Riverwood Toll Castle (Animated)",
+      "path": "packs/czepeku-142-riverwood-toll-castle-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-143-dwarven-throne-hall",
+      "label": "Cze & Peku - 143 - Dwarven Throne Hall",
+      "path": "packs/czepeku-143-dwarven-throne-hall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-143-dwarven-throne-hall-animated",
+      "label": "Cze & Peku - 143 - Dwarven Throne Hall (Animated)",
+      "path": "packs/czepeku-143-dwarven-throne-hall-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-144-mushroom-infested-mines",
+      "label": "Cze & Peku - 144 - Mushroom Infested Mines",
+      "path": "packs/czepeku-144-mushroom-infested-mines.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-144-mushroom-infested-mines-animated",
+      "label": "Cze & Peku - 144 - Mushroom Infested Mines (Animated)",
+      "path": "packs/czepeku-144-mushroom-infested-mines-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-145-animated-annis-hag-lair",
+      "label": "Cze & Peku - 145 - Animated Annis Hag Lair",
+      "path": "packs/czepeku-145-animated-annis-hag-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-145-annis-hag-lair",
+      "label": "Cze & Peku - 145 - Annis Hag Lair",
+      "path": "packs/czepeku-145-annis-hag-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-146-peaceful-village-church",
+      "label": "Cze & Peku - 146 - Peaceful Village Church",
+      "path": "packs/czepeku-146-peaceful-village-church.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-147-elven-magitech-portal",
+      "label": "Cze & Peku - 147 - Elven Magitech Portal",
+      "path": "packs/czepeku-147-elven-magitech-portal.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-147-elven-magitech-portal-animated",
+      "label": "Cze & Peku - 147 - Elven Magitech Portal (Animated)",
+      "path": "packs/czepeku-147-elven-magitech-portal-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-148-the-crystal-veil",
+      "label": "Cze & Peku - 148 - The Crystal Veil",
+      "path": "packs/czepeku-148-the-crystal-veil.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-149-mountain-logging-camp",
+      "label": "Cze & Peku - 149 - Mountain Logging Camp",
+      "path": "packs/czepeku-149-mountain-logging-camp.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-150-djinn-gardens",
+      "label": "Cze & Peku - 150 - Djinn Gardens",
+      "path": "packs/czepeku-150-djinn-gardens.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-151-village-blacksmith",
+      "label": "Cze & Peku - 151 - Village Blacksmith",
+      "path": "packs/czepeku-151-village-blacksmith.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-152-rusty-robot-lake",
+      "label": "Cze & Peku - 152 - Rusty Robot Lake",
+      "path": "packs/czepeku-152-rusty-robot-lake.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-153-elder-brain-sacrum-shrine",
+      "label": "Cze & Peku - 153 - Elder Brain Sacrum Shrine",
+      "path": "packs/czepeku-153-elder-brain-sacrum-shrine.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-154-blacksmith-secret-grotto",
+      "label": "Cze & Peku - 154 - Blacksmith Secret Grotto",
+      "path": "packs/czepeku-154-blacksmith-secret-grotto.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-155-elder-brain-spine-mine",
+      "label": "Cze & Peku - 155 - Elder Brain Spine Mine",
+      "path": "packs/czepeku-155-elder-brain-spine-mine.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-156-village-wainwright-shop",
+      "label": "Cze & Peku - 156 - Village Wainwright Shop",
+      "path": "packs/czepeku-156-village-wainwright-shop.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-157-hanging-gardens",
+      "label": "Cze & Peku - 157 - Hanging Gardens",
+      "path": "packs/czepeku-157-hanging-gardens.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-158-megalith-gate",
+      "label": "Cze & Peku - 158 - Megalith Gate",
+      "path": "packs/czepeku-158-megalith-gate.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-159-nightmare-dragon-lair",
+      "label": "Cze & Peku - 159 - Nightmare Dragon Lair",
+      "path": "packs/czepeku-159-nightmare-dragon-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-16-floating-sky-castle",
+      "label": "Cze & Peku - 016 - Floating Sky Castle",
+      "path": "packs/czepeku-16-floating-sky-castle.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-160-alchemy-dungeon",
+      "label": "Cze & Peku - 160 - Alchemy Dungeon",
+      "path": "packs/czepeku-160-alchemy-dungeon.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-161-nymph-fountain",
+      "label": "Cze & Peku - 161 - Nymph Fountain",
+      "path": "packs/czepeku-161-nymph-fountain.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-162-steam-factory",
+      "label": "Cze & Peku - 162 - Steam Factory",
+      "path": "packs/czepeku-162-steam-factory.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-163-bone-dryad-ossuary",
+      "label": "Cze & Peku - 163 - Bone Dryad Ossuary",
+      "path": "packs/czepeku-163-bone-dryad-ossuary.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-164-experimental-surgery-theatre",
+      "label": "Cze & Peku - 164 - Experimental Surgery Theatre",
+      "path": "packs/czepeku-164-experimental-surgery-theatre.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-165-desert-caravanserai",
+      "label": "Cze & Peku - 165 - Desert Caravanserai",
+      "path": "packs/czepeku-165-desert-caravanserai.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-167-spider-queen-throne",
+      "label": "Cze & Peku - 167 - Spider Queen Throne",
+      "path": "packs/czepeku-167-spider-queen-throne.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-168-the-iron-wharf",
+      "label": "Cze & Peku - 168 - The Iron Wharf",
+      "path": "packs/czepeku-168-the-iron-wharf.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-169-jungle-temple-entrance",
+      "label": "Cze & Peku - 169 - Jungle Temple Entrance",
+      "path": "packs/czepeku-169-jungle-temple-entrance.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-17-animated-zen-monastery",
+      "label": "Cze & Peku - 017 - Animated Zen Monastery",
+      "path": "packs/czepeku-17-animated-zen-monastery.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-17-zen-garden-monastery",
+      "label": "Cze & Peku - 017 - Zen Garden Monastery",
+      "path": "packs/czepeku-17-zen-garden-monastery.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-170-war-room-interior",
+      "label": "Cze & Peku - 170 - War Room Interior",
+      "path": "packs/czepeku-170-war-room-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-171-tranquil-apiary",
+      "label": "Cze & Peku - 171 - Tranquil Apiary",
+      "path": "packs/czepeku-171-tranquil-apiary.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-172-palace-inner-court",
+      "label": "Cze & Peku - 172 - Palace Inner Court",
+      "path": "packs/czepeku-172-palace-inner-court.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-173-dark-woods-edge",
+      "label": "Cze & Peku - 173 - Dark Woods Edge",
+      "path": "packs/czepeku-173-dark-woods-edge.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-174-war-room-exterior",
+      "label": "Cze & Peku - 174 - War Room Exterior",
+      "path": "packs/czepeku-174-war-room-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-175-mycelial-gate",
+      "label": "Cze & Peku - 175 - Mycelial Gate",
+      "path": "packs/czepeku-175-mycelial-gate.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-176-slum-district",
+      "label": "Cze & Peku - 176 - Slum District",
+      "path": "packs/czepeku-176-slum-district.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-177-flooded-fey-ruins",
+      "label": "Cze & Peku - 177 - Flooded Fey Ruins",
+      "path": "packs/czepeku-177-flooded-fey-ruins.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-178-palace-guard-chambers",
+      "label": "Cze & Peku - 178 - Palace Guard Chambers",
+      "path": "packs/czepeku-178-palace-guard-chambers.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-179-gentle-village-greengrocer",
+      "label": "Cze & Peku - 179 - Gentle Village Greengrocer",
+      "path": "packs/czepeku-179-gentle-village-greengrocer.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-18-vampire-mansion",
+      "label": "Cze & Peku - 018 - Vampire Mansion",
+      "path": "packs/czepeku-18-vampire-mansion.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-180-cave-temple",
+      "label": "Cze & Peku - 180 - Cave Temple",
+      "path": "packs/czepeku-180-cave-temple.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-181-medieval-jail",
+      "label": "Cze & Peku - 181 - Medieval Jail",
+      "path": "packs/czepeku-181-medieval-jail.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-182-wizard-vault",
+      "label": "Cze & Peku - 182 - Wizard Vault",
+      "path": "packs/czepeku-182-wizard-vault.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-183-yggdrasil-village",
+      "label": "Cze & Peku - 183 - Yggdrasil Village",
+      "path": "packs/czepeku-183-yggdrasil-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-184-yggdrasil-trunk",
+      "label": "Cze & Peku - 184 - Yggdrasil Trunk",
+      "path": "packs/czepeku-184-yggdrasil-trunk.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-185-elven-city-centre",
+      "label": "Cze & Peku - 185 - Elven City Centre",
+      "path": "packs/czepeku-185-elven-city-centre.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-186-yggdrasil-branch-overlook",
+      "label": "Cze & Peku - 186 - Yggdrasil Branch Overlook",
+      "path": "packs/czepeku-186-yggdrasil-branch-overlook.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-187-secret-sailor-lair",
+      "label": "Cze & Peku - 187 - Secret Sailor Lair",
+      "path": "packs/czepeku-187-secret-sailor-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-188-dragons-hoard",
+      "label": "Cze & Peku - 188 - Dragons Hoard",
+      "path": "packs/czepeku-188-dragons-hoard.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-189-yggdrasil-treetop",
+      "label": "Cze & Peku - 189 - Yggdrasil Treetop",
+      "path": "packs/czepeku-189-yggdrasil-treetop.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-19-colosseum-of-challenges",
+      "label": "Cze & Peku - 019 - Colosseum Of Challenges",
+      "path": "packs/czepeku-19-colosseum-of-challenges.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-190-goblin-city-centre",
+      "label": "Cze & Peku - 190 - Goblin City Centre",
+      "path": "packs/czepeku-190-goblin-city-centre.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-191-wizard-bank-interior",
+      "label": "Cze & Peku - 191 - Wizard Bank Interior",
+      "path": "packs/czepeku-191-wizard-bank-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-192-arctic-expedition",
+      "label": "Cze & Peku - 192 - Arctic Expedition",
+      "path": "packs/czepeku-192-arctic-expedition.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-193-burial-barrow",
+      "label": "Cze & Peku - 193 - Burial Barrow",
+      "path": "packs/czepeku-193-burial-barrow.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-194-overground-dwarven-city-centre",
+      "label": "Cze & Peku - 194 - Overground Dwarven City Centre",
+      "path": "packs/czepeku-194-overground-dwarven-city-centre.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-195-pastoral-village-stables",
+      "label": "Cze & Peku - 195 - Pastoral Village Stables",
+      "path": "packs/czepeku-195-pastoral-village-stables.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-196-dead-angel-reef",
+      "label": "Cze & Peku - 196 - Dead Angel Reef",
+      "path": "packs/czepeku-196-dead-angel-reef.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-197-fortified-dam",
+      "label": "Cze & Peku - 197 - Fortified Dam",
+      "path": "packs/czepeku-197-fortified-dam.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-198-quaint-village-school",
+      "label": "Cze & Peku - 198 - Quaint Village School",
+      "path": "packs/czepeku-198-quaint-village-school.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-199-yggdrasil-roots",
+      "label": "Cze & Peku - 199 - Yggdrasil Roots",
+      "path": "packs/czepeku-199-yggdrasil-roots.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-20-realm-of-dreams",
+      "label": "Cze & Peku - 020 - Realm Of Dreams",
+      "path": "packs/czepeku-20-realm-of-dreams.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-200-grand-cathedral",
+      "label": "Cze & Peku - 200 - Grand Cathedral",
+      "path": "packs/czepeku-200-grand-cathedral.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-201-rebel-camp",
+      "label": "Cze & Peku - 201 - Rebel Camp",
+      "path": "packs/czepeku-201-rebel-camp.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-202-warforged-city-centre",
+      "label": "Cze & Peku - 202 - Warforged City Centre",
+      "path": "packs/czepeku-202-warforged-city-centre.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-203-ancient-stepwell",
+      "label": "Cze & Peku - 203 - Ancient Stepwell",
+      "path": "packs/czepeku-203-ancient-stepwell.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-204-haunted-ghost-ship-exterior",
+      "label": "Cze & Peku - 204 - Haunted Ghost Ship Exterior",
+      "path": "packs/czepeku-204-haunted-ghost-ship-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-205-beachside-cliff",
+      "label": "Cze & Peku - 205 - Beachside Cliff",
+      "path": "packs/czepeku-205-beachside-cliff.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-206-monster-hunter-restaurant",
+      "label": "Cze & Peku - 206 - Monster Hunter Restaurant",
+      "path": "packs/czepeku-206-monster-hunter-restaurant.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-207-archaeological-dig",
+      "label": "Cze & Peku - 207 - Archaeological Dig",
+      "path": "packs/czepeku-207-archaeological-dig.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-208-haunted-ghost-ship-interior",
+      "label": "Cze & Peku - 208 - Haunted Ghost Ship Interior",
+      "path": "packs/czepeku-208-haunted-ghost-ship-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-209-chrono-chaos-ruins",
+      "label": "Cze & Peku - 209 - Chrono Chaos Ruins",
+      "path": "packs/czepeku-209-chrono-chaos-ruins.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-21-ancient-battlefield",
+      "label": "Cze & Peku - 021 - Ancient Battlefield",
+      "path": "packs/czepeku-21-ancient-battlefield.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-210-mangrove-forest",
+      "label": "Cze & Peku - 210 - Mangrove Forest",
+      "path": "packs/czepeku-210-mangrove-forest.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-211-wizard-prison-part-1",
+      "label": "Cze & Peku - 211 - Wizard Prison Part 1",
+      "path": "packs/czepeku-211-wizard-prison-part-1.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-212-monster-fighting-pit",
+      "label": "Cze & Peku - 212 - Monster Fighting Pit",
+      "path": "packs/czepeku-212-monster-fighting-pit.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-213-wizard-prison-part-2",
+      "label": "Cze & Peku - 213 - Wizard Prison Part 2",
+      "path": "packs/czepeku-213-wizard-prison-part-2.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-214-gnome-city-centre",
+      "label": "Cze & Peku - 214 - Gnome City Centre",
+      "path": "packs/czepeku-214-gnome-city-centre.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-215-monster-genealogy-lab",
+      "label": "Cze & Peku - 215 - Monster Genealogy Lab",
+      "path": "packs/czepeku-215-monster-genealogy-lab.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-216-sewer-tunnels",
+      "label": "Cze & Peku - 216 - Sewer Tunnels",
+      "path": "packs/czepeku-216-sewer-tunnels.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-218-fey-tavern",
+      "label": "Cze & Peku - 218 - Fey Tavern",
+      "path": "packs/czepeku-218-fey-tavern.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-22-medieval-monster-festival",
+      "label": "Cze & Peku - 022 - Medieval Monster Festival",
+      "path": "packs/czepeku-22-medieval-monster-festival.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-221-hidden-witches-hut",
+      "label": "Cze & Peku - 221 - Hidden Witches Hut",
+      "path": "packs/czepeku-221-hidden-witches-hut.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-223-village-hunting-guild",
+      "label": "Cze & Peku - 223 - Village Hunting Guild",
+      "path": "packs/czepeku-223-village-hunting-guild.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-224-motte-and-bailey-castle",
+      "label": "Cze & Peku - 224 - Motte And Bailey Castle",
+      "path": "packs/czepeku-224-motte-and-bailey-castle.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-225-grand-cathedral-interior",
+      "label": "Cze & Peku - 225 - Grand Cathedral Interior",
+      "path": "packs/czepeku-225-grand-cathedral-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-226-grand-cathedral-crypt",
+      "label": "Cze & Peku - 226 - Grand Cathedral Crypt",
+      "path": "packs/czepeku-226-grand-cathedral-crypt.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-227-wizard-prison-part-4",
+      "label": "Cze & Peku - 227 - Wizard Prison Part 4",
+      "path": "packs/czepeku-227-wizard-prison-part-4.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-228-ancient-tech-treasury",
+      "label": "Cze & Peku - 228 - Ancient Tech Treasury",
+      "path": "packs/czepeku-228-ancient-tech-treasury.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-229-village-bakery",
+      "label": "Cze & Peku - 229 - Village Bakery",
+      "path": "packs/czepeku-229-village-bakery.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-23-antlion-canyon",
+      "label": "Cze & Peku - 023 - Antlion Canyon",
+      "path": "packs/czepeku-23-antlion-canyon.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-230-lich-catacomb",
+      "label": "Cze & Peku - 230 - Lich Catacomb",
+      "path": "packs/czepeku-230-lich-catacomb.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-231-iron-age-hamlet",
+      "label": "Cze & Peku - 231 - Iron Age Hamlet",
+      "path": "packs/czepeku-231-iron-age-hamlet.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-233-impending-waterfall",
+      "label": "Cze & Peku - 233 - Impending Waterfall",
+      "path": "packs/czepeku-233-impending-waterfall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-234-village-farmhouse",
+      "label": "Cze & Peku - 234 - Village Farmhouse",
+      "path": "packs/czepeku-234-village-farmhouse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-235-tomb-of-sand-interior",
+      "label": "Cze & Peku - 235 - Tomb Of Sand Interior",
+      "path": "packs/czepeku-235-tomb-of-sand-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-236-wizard-prison-part-5",
+      "label": "Cze & Peku - 236 - Wizard Prison Part 5",
+      "path": "packs/czepeku-236-wizard-prison-part-5.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-237-trainwreck-village",
+      "label": "Cze & Peku - 237 - Trainwreck Village",
+      "path": "packs/czepeku-237-trainwreck-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-238-alchemy-district",
+      "label": "Cze & Peku - 238 - Alchemy District",
+      "path": "packs/czepeku-238-alchemy-district.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-239-jousting-tournament",
+      "label": "Cze & Peku - 239 - Jousting Tournament",
+      "path": "packs/czepeku-239-jousting-tournament.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-24-mysterious-mountain-monastery",
+      "label": "Cze & Peku - 024 - Mysterious Mountain Monastery",
+      "path": "packs/czepeku-24-mysterious-mountain-monastery.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-240-hells-cocktail-lounge",
+      "label": "Cze & Peku - 240 - Hells Cocktail Lounge",
+      "path": "packs/czepeku-240-hells-cocktail-lounge.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-241-salt-plains-observatory",
+      "label": "Cze & Peku - 241 - Salt Plains Observatory",
+      "path": "packs/czepeku-241-salt-plains-observatory.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-242-celestial-chapel",
+      "label": "Cze & Peku - 242 - Celestial Chapel",
+      "path": "packs/czepeku-242-celestial-chapel.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-243-tropical-island-village",
+      "label": "Cze & Peku - 243 - Tropical Island Village",
+      "path": "packs/czepeku-243-tropical-island-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-244-celestial-chapel-interior",
+      "label": "Cze & Peku - 244 - Celestial Chapel Interior",
+      "path": "packs/czepeku-244-celestial-chapel-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-245-imperial-bath-complex",
+      "label": "Cze & Peku - 245 - Imperial Bath Complex",
+      "path": "packs/czepeku-245-imperial-bath-complex.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-246-fairy-treetop-village",
+      "label": "Cze & Peku - 246 - Fairy Treetop Village",
+      "path": "packs/czepeku-246-fairy-treetop-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-247-magisters-market",
+      "label": "Cze & Peku - 247 - Magisters Market",
+      "path": "packs/czepeku-247-magisters-market.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-248-fallen-ancient-tree",
+      "label": "Cze & Peku - 248 - Fallen Ancient Tree",
+      "path": "packs/czepeku-248-fallen-ancient-tree.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-249-prismatic-ballroom",
+      "label": "Cze & Peku - 249 - Prismatic Ballroom",
+      "path": "packs/czepeku-249-prismatic-ballroom.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-25-animated-steamy-japanese-bathhouse",
+      "label": "Cze & Peku - 025 - Animated Steamy Japanese Bathhouse",
+      "path": "packs/czepeku-25-animated-steamy-japanese-bathhouse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-25-steamy-japanese-bathhouse",
+      "label": "Cze & Peku - 025 - Steamy Japanese Bathhouse",
+      "path": "packs/czepeku-25-steamy-japanese-bathhouse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-250-fjordside-cabin",
+      "label": "Cze & Peku - 250 - Fjordside Cabin",
+      "path": "packs/czepeku-250-fjordside-cabin.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-252-roadside-ambush",
+      "label": "Cze & Peku - 252 - Roadside Ambush",
+      "path": "packs/czepeku-252-roadside-ambush.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-26-cavern-of-the-venom-queen",
+      "label": "Cze & Peku - 026 - Cavern Of The Venom Queen",
+      "path": "packs/czepeku-26-cavern-of-the-venom-queen.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-27-lair-of-the-giant-eye-monster",
+      "label": "Cze & Peku - 027 - Lair Of The Giant Eye Monster",
+      "path": "packs/czepeku-27-lair-of-the-giant-eye-monster.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-28-the-stranded-casino",
+      "label": "Cze & Peku - 028 - The Stranded Casino",
+      "path": "packs/czepeku-28-the-stranded-casino.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-29-depths-of-the-festerwood",
+      "label": "Cze & Peku - 029 - Depths Of The Festerwood",
+      "path": "packs/czepeku-29-depths-of-the-festerwood.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-30-steampunk-warforged-factory",
+      "label": "Cze & Peku - 030 - Steampunk Warforged Factory",
+      "path": "packs/czepeku-30-steampunk-warforged-factory.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-31-drakescale-peak",
+      "label": "Cze & Peku - 031 - Drakescale Peak",
+      "path": "packs/czepeku-31-drakescale-peak.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-32-mid-air-dragon-flight",
+      "label": "Cze & Peku - 032 - Mid Air Dragon Flight",
+      "path": "packs/czepeku-32-mid-air-dragon-flight.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-33-island-fort",
+      "label": "Cze & Peku - 033 - Island Fort",
+      "path": "packs/czepeku-33-island-fort.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-34-animated-elder-brain-lair",
+      "label": "Cze & Peku - 034 - Animated Elder Brain Lair",
+      "path": "packs/czepeku-34-animated-elder-brain-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-34-elder-brain-lair",
+      "label": "Cze & Peku - 034 - Elder Brain Lair",
+      "path": "packs/czepeku-34-elder-brain-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-35-animated-temple-of-couatl-exterior",
+      "label": "Cze & Peku - 035 - Animated Temple Of Couatl Exterior",
+      "path": "packs/czepeku-35-animated-temple-of-couatl-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-35-temple-of-couatl-exterior",
+      "label": "Cze & Peku - 035 - Temple Of Couatl Exterior",
+      "path": "packs/czepeku-35-temple-of-couatl-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-36-temple-of-couatl-interior",
+      "label": "Cze & Peku - 036 - Temple Of Couatl Interior",
+      "path": "packs/czepeku-36-temple-of-couatl-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-37-animated-city-rooftop-chase",
+      "label": "Cze & Peku - 037 - Animated City Rooftop Chase",
+      "path": "packs/czepeku-37-animated-city-rooftop-chase.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-37-city-rooftop-chase",
+      "label": "Cze & Peku - 037 - City Rooftop Chase",
+      "path": "packs/czepeku-37-city-rooftop-chase.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-38-royal-throne-room",
+      "label": "Cze & Peku - 038 - Royal Throne Room",
+      "path": "packs/czepeku-38-royal-throne-room.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-39-thieves-guild-hideout",
+      "label": "Cze & Peku - 039 - Thieves Guild Hideout",
+      "path": "packs/czepeku-39-thieves-guild-hideout.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-41-city-streets",
+      "label": "Cze & Peku - 041 - City Streets",
+      "path": "packs/czepeku-41-city-streets.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-42-overgrown-magic-forest",
+      "label": "Cze & Peku - 042 - Overgrown Magic Forest",
+      "path": "packs/czepeku-42-overgrown-magic-forest.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-42-overgrown-magic-forest-animated",
+      "label": "Cze & Peku - 042 - Overgrown Magic Forest (Animated)",
+      "path": "packs/czepeku-42-overgrown-magic-forest-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-43-airships-part-1",
+      "label": "Cze & Peku - 043 - Airships Part 1",
+      "path": "packs/czepeku-43-airships-part-1.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-44-animated-serene-lakeside",
+      "label": "Cze & Peku - 044 - Animated Serene Lakeside",
+      "path": "packs/czepeku-44-animated-serene-lakeside.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-44-serene-lakeside",
+      "label": "Cze & Peku - 044 - Serene Lakeside",
+      "path": "packs/czepeku-44-serene-lakeside.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-45-lightning-rail-1",
+      "label": "Cze & Peku - 045 - Lightning Rail 1",
+      "path": "packs/czepeku-45-lightning-rail-1.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-46-animated-coral-throne",
+      "label": "Cze & Peku - 046 - Animated Coral Throne",
+      "path": "packs/czepeku-46-animated-coral-throne.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-46-coral-throne",
+      "label": "Cze & Peku - 046 - Coral Throne",
+      "path": "packs/czepeku-46-coral-throne.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-47-hells-tax-office",
+      "label": "Cze & Peku - 047 - Hells Tax Office",
+      "path": "packs/czepeku-47-hells-tax-office.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-47-hells-tax-office-animated",
+      "label": "Cze & Peku - 047 - Hells Tax Office (Animated)",
+      "path": "packs/czepeku-47-hells-tax-office-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-48-ancient-hydra-lair",
+      "label": "Cze & Peku - 048 - Ancient Hydra Lair",
+      "path": "packs/czepeku-48-ancient-hydra-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-49-animated-plague-hospital",
+      "label": "Cze & Peku - 049 - Animated Plague Hospital",
+      "path": "packs/czepeku-49-animated-plague-hospital.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-49-plague-hospital",
+      "label": "Cze & Peku - 049 - Plague Hospital",
+      "path": "packs/czepeku-49-plague-hospital.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-50-bullywug-swamp",
+      "label": "Cze & Peku - 050 - Bullywug Swamp",
+      "path": "packs/czepeku-50-bullywug-swamp.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-51-animated-shadow-fortress-bridge-exterior",
+      "label": "Cze & Peku - 051 - Animated Shadow Fortress Bridge Exterior",
+      "path": "packs/czepeku-51-animated-shadow-fortress-bridge-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-51-shadow-fortress-bridge-exterior",
+      "label": "Cze & Peku - 051 - Shadow Fortress Bridge Exterior",
+      "path": "packs/czepeku-51-shadow-fortress-bridge-exterior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-52-pharoahs-tomb",
+      "label": "Cze & Peku - 052 - Pharoahs Tomb",
+      "path": "packs/czepeku-52-pharoahs-tomb.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-53-eldritch-church",
+      "label": "Cze & Peku - 053 - Eldritch Church",
+      "path": "packs/czepeku-53-eldritch-church.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-53-eldritch-church-animated",
+      "label": "Cze & Peku - 053 - Eldritch Church (Animated)",
+      "path": "packs/czepeku-53-eldritch-church-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-54-the-great-library",
+      "label": "Cze & Peku - 054 - The Great Library",
+      "path": "packs/czepeku-54-the-great-library.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-55-the-mechanical-palace",
+      "label": "Cze & Peku - 055 - The Mechanical Palace",
+      "path": "packs/czepeku-55-the-mechanical-palace.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-56-giant-kitchen",
+      "label": "Cze & Peku - 056 - Giant Kitchen",
+      "path": "packs/czepeku-56-giant-kitchen.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-57-windmill-farm",
+      "label": "Cze & Peku - 057 - Windmill Farm",
+      "path": "packs/czepeku-57-windmill-farm.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-57-windmill-farm-animated",
+      "label": "Cze & Peku - 057 - Windmill Farm (Animated)",
+      "path": "packs/czepeku-57-windmill-farm-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-58-bag-of-holding",
+      "label": "Cze & Peku - 058 - Bag Of Holding",
+      "path": "packs/czepeku-58-bag-of-holding.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-59-green-dragon-lair",
+      "label": "Cze & Peku - 059 - Green Dragon Lair",
+      "path": "packs/czepeku-59-green-dragon-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-60-wild-west-saloon",
+      "label": "Cze & Peku - 060 - Wild West Saloon",
+      "path": "packs/czepeku-60-wild-west-saloon.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-61-treetop-dungeon",
+      "label": "Cze & Peku - 061 - Treetop Dungeon",
+      "path": "packs/czepeku-61-treetop-dungeon.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-62-celestial-realm",
+      "label": "Cze & Peku - 062 - Celestial Realm",
+      "path": "packs/czepeku-62-celestial-realm.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-64-remote-ice-village",
+      "label": "Cze & Peku - 064 - Remote Ice Village",
+      "path": "packs/czepeku-64-remote-ice-village.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-65-blue-dragon-lair",
+      "label": "Cze & Peku - 065 - Blue Dragon Lair",
+      "path": "packs/czepeku-65-blue-dragon-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-66-baba-yagas-domain",
+      "label": "Cze & Peku - 066 - Baba Yagas Domain",
+      "path": "packs/czepeku-66-baba-yagas-domain.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-67-beached-kraken",
+      "label": "Cze & Peku - 067 - Beached Kraken",
+      "path": "packs/czepeku-67-beached-kraken.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-68-pseudodragon-lair",
+      "label": "Cze & Peku - 068 - Pseudodragon Lair",
+      "path": "packs/czepeku-68-pseudodragon-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-69-warforged-titan-scrapyard",
+      "label": "Cze & Peku - 069 - Warforged Titan Scrapyard",
+      "path": "packs/czepeku-69-warforged-titan-scrapyard.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-70-crossroads",
+      "label": "Cze & Peku - 070 - Crossroads",
+      "path": "packs/czepeku-70-crossroads.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-71-animated-medusas-wake",
+      "label": "Cze & Peku - 071 - Animated Medusas Wake",
+      "path": "packs/czepeku-71-animated-medusas-wake.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-71-medusas-wake",
+      "label": "Cze & Peku - 071 - Medusas Wake",
+      "path": "packs/czepeku-71-medusas-wake.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-72-lighning-rail-2",
+      "label": "Cze & Peku - 072 - Lighning Rail 2",
+      "path": "packs/czepeku-72-lighning-rail-2.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-73-bridge-town",
+      "label": "Cze & Peku - 073 - Bridge Town",
+      "path": "packs/czepeku-73-bridge-town.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-74-opulent-ballroom",
+      "label": "Cze & Peku - 074 - Opulent Ballroom",
+      "path": "packs/czepeku-74-opulent-ballroom.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-75-desert-canyon",
+      "label": "Cze & Peku - 075 - Desert Canyon",
+      "path": "packs/czepeku-75-desert-canyon.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-76-forest-shrine-festival",
+      "label": "Cze & Peku - 076 - Forest Shrine Festival",
+      "path": "packs/czepeku-76-forest-shrine-festival.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-77-animated-airship-impact-site",
+      "label": "Cze & Peku - 077 - Animated Airship Impact Site",
+      "path": "packs/czepeku-77-animated-airship-impact-site.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-77-impact-site",
+      "label": "Cze & Peku - 077 - Impact Site",
+      "path": "packs/czepeku-77-impact-site.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-78-open-ocean",
+      "label": "Cze & Peku - 078 - Open Ocean",
+      "path": "packs/czepeku-78-open-ocean.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-79-train-station-concourse",
+      "label": "Cze & Peku - 079 - Train Station Concourse",
+      "path": "packs/czepeku-79-train-station-concourse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-80-colossus-port",
+      "label": "Cze & Peku - 080 - Colossus Port",
+      "path": "packs/czepeku-80-colossus-port.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-81-train-station-platforms",
+      "label": "Cze & Peku - 081 - Train Station Platforms",
+      "path": "packs/czepeku-81-train-station-platforms.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-82-necropolis-entrance",
+      "label": "Cze & Peku - 082 - Necropolis Entrance",
+      "path": "packs/czepeku-82-necropolis-entrance.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-83-necropolis-dungeon",
+      "label": "Cze & Peku - 083 - Necropolis Dungeon",
+      "path": "packs/czepeku-83-necropolis-dungeon.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-84-shadow-fortress-interior",
+      "label": "Cze & Peku - 084 - Shadow Fortress Interior",
+      "path": "packs/czepeku-84-shadow-fortress-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-85-oasis-city",
+      "label": "Cze & Peku - 085 - Oasis City",
+      "path": "packs/czepeku-85-oasis-city.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-86-grand-opera-house",
+      "label": "Cze & Peku - 086 - Grand Opera House",
+      "path": "packs/czepeku-86-grand-opera-house.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-87-harpy-cove",
+      "label": "Cze & Peku - 087 - Harpy Cove",
+      "path": "packs/czepeku-87-harpy-cove.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-87-harpy-cove-animated",
+      "label": "Cze & Peku - 087 - Harpy Cove (Animated)",
+      "path": "packs/czepeku-87-harpy-cove-animated.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-89-mountaintop-observatory",
+      "label": "Cze & Peku - 089 - Mountaintop Observatory",
+      "path": "packs/czepeku-89-mountaintop-observatory.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-90-astral-plane",
+      "label": "Cze & Peku - 090 - Astral Plane",
+      "path": "packs/czepeku-90-astral-plane.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-91-secret-fey-fountain",
+      "label": "Cze & Peku - 091 - Secret Fey Fountain",
+      "path": "packs/czepeku-91-secret-fey-fountain.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-92-geothermal-rift",
+      "label": "Cze & Peku - 092 - Geothermal Rift",
+      "path": "packs/czepeku-92-geothermal-rift.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-95-celestial-gate",
+      "label": "Cze & Peku - 095 - Celestial Gate",
+      "path": "packs/czepeku-95-celestial-gate.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-96-temple-pastures",
+      "label": "Cze & Peku - 096 - Temple Pastures",
+      "path": "packs/czepeku-96-temple-pastures.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-97-arcane-clocktower",
+      "label": "Cze & Peku - 097 - Arcane Clocktower",
+      "path": "packs/czepeku-97-arcane-clocktower.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-98-airships-part-2",
+      "label": "Cze & Peku - 098 - Airships Part 2",
+      "path": "packs/czepeku-98-airships-part-2.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-99-oni-hideout",
+      "label": "Cze & Peku - 099 - Oni Hideout",
+      "path": "packs/czepeku-99-oni-hideout.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-100-void-dragon-lair",
+      "label": "Cze & Peku - 100 - Animated Void Dragon Lair",
+      "path": "packs/czepeku-animated-100-void-dragon-lair.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-113-chthonic-lighthouse",
+      "label": "Cze & Peku - 113 - Animated Chthonic Lighthouse",
+      "path": "packs/czepeku-animated-113-chthonic-lighthouse.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-114-abyssal-fall",
+      "label": "Cze & Peku - 114 - Animated Abyssal Fall",
+      "path": "packs/czepeku-animated-114-abyssal-fall.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-134-bone-mill-interior",
+      "label": "Cze & Peku - 134 - Animated Bone Mill Interior",
+      "path": "packs/czepeku-animated-134-bone-mill-interior.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-141-tutelary-turtle-island",
+      "label": "Cze & Peku - 141 - Animated Tutelary Turtle Island",
+      "path": "packs/czepeku-animated-141-tutelary-turtle-island.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-151-village-blacksmith",
+      "label": "Cze & Peku - 151 - Animated Village Blacksmith",
+      "path": "packs/czepeku-animated-151-village-blacksmith.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-157-hanging-gardens",
+      "label": "Cze & Peku - 157 - Animated Hanging Gardens",
+      "path": "packs/czepeku-animated-157-hanging-gardens.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-171-tranquil-apiary",
+      "label": "Cze & Peku - 171 - Animated Tranquil Apiary",
+      "path": "packs/czepeku-animated-171-tranquil-apiary.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "czepeku-animated-95-celestial-gate",
+      "label": "Cze & Peku - 095 - Animated Celestial Gate",
+      "path": "packs/czepeku-animated-95-celestial-gate.db",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Cze & Peku (Curated by Yan)",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Animated Maps",
+          "sorting": "a",
+          "packs": [
+            "czepeku-10-animated-city-marketplace",
+            "czepeku-17-animated-zen-monastery",
+            "czepeku-25-animated-steamy-japanese-bathhouse",
+            "czepeku-34-animated-elder-brain-lair",
+            "czepeku-35-animated-temple-of-couatl-exterior",
+            "czepeku-37-animated-city-rooftop-chase",
+            "czepeku-42-overgrown-magic-forest-animated",
+            "czepeku-44-animated-serene-lakeside",
+            "czepeku-46-animated-coral-throne",
+            "czepeku-47-hells-tax-office-animated",
+            "czepeku-49-animated-plague-hospital",
+            "czepeku-51-animated-shadow-fortress-bridge-exterior",
+            "czepeku-53-eldritch-church-animated",
+            "czepeku-57-windmill-farm-animated",
+            "czepeku-71-animated-medusas-wake",
+            "czepeku-77-animated-airship-impact-site",
+            "czepeku-87-harpy-cove-animated",
+            "czepeku-animated-95-celestial-gate",
+            "czepeku-animated-100-void-dragon-lair",
+            "czepeku-111-tomb-of-sand-animated",
+            "czepeku-animated-113-chthonic-lighthouse",
+            "czepeku-animated-114-abyssal-fall",
+            "czepeku-117-imperial-graveyard-animated",
+            "czepeku-131-the-forbidden-gates-animated",
+            "animated-134-bone-mill-interior",
+            "czepeku-135-animated-wonderful-wizard-waterfall",
+            "czepeku-138-hellfire-prison-animated",
+            "czepeku-139-forgotten-chapel-animated",
+            "czepeku-140-court-of-justice-animated",
+            "czepeku-animated-141-tutelary-turtle-island",
+            "czepeku-142-riverwood-toll-castle-animated",
+            "czepeku-143-dwarven-throne-hall-animated",
+            "czepeku-144-mushroom-infested-mines-animated",
+            "czepeku-145-animated-annis-hag-lair",
+            "czepeku-147-elven-magitech-portal-animated",
+            "czepeku-animated-151-village-blacksmith",
+            "czepeku-animated-157-hanging-gardens",
+            "czepeku-animated-171-tranquil-apiary"
+          ]
+        },
+        {
+          "name": "Buildings & Settlements",
+          "sorting": "a",
+          "packs": [
+            "czepeku-10-city-marketplace",
+            "czepeku-12-adventurers-guildhall",
+            "czepeku-16-floating-sky-castle",
+            "czepeku-17-zen-garden-monastery",
+            "czepeku-18-vampire-mansion",
+            "czepeku-19-colosseum-of-challenges",
+            "czepeku-22-medieval-monster-festival",
+            "czepeku-24-mysterious-mountain-monastery",
+            "czepeku-25-steamy-japanese-bathhouse",
+            "czepeku-28-the-stranded-casino",
+            "czepeku-30-steampunk-warforged-factory",
+            "czepeku-33-island-fort",
+            "czepeku-38-royal-throne-room",
+            "czepeku-39-thieves-guild-hideout",
+            "czepeku-41-city-streets",
+            "czepeku-49-plague-hospital",
+            "czepeku-53-eldritch-church",
+            "czepeku-54-the-great-library",
+            "czepeku-55-the-mechanical-palace",
+            "czepeku-56-giant-kitchen",
+            "czepeku-57-windmill-farm",
+            "czepeku-60-wild-west-saloon",
+            "czepeku-64-remote-ice-village",
+            "czepeku-73-bridge-town",
+            "czepeku-74-opulent-ballroom",
+            "czepeku-79-train-station-concourse",
+            "czepeku-80-colossus-port",
+            "czepeku-81-train-station-platforms",
+            "czepeku-85-oasis-city",
+            "czepeku-86-grand-opera-house",
+            "czepeku-89-mountaintop-observatory",
+            "czepeku-97-arcane-clocktower",
+            "czepeku-104-floating-village",
+            "czepeku-107-victorian-greenhouse",
+            "czepeku-110-airship-port",
+            "czepeku-113-chthonic-lighthouse",
+            "czepeku-116-hangar-bay",
+            "czepeku-118-grand-hunters-house",
+            "czepeku-120-river-stronghold",
+            "czepeku-124-beach-town",
+            "czepeku-126-floating-market",
+            "czepeku-127-palace-outer-court",
+            "czepeku-130-solar-cathedral",
+            "czepeku-136-gryphon-roost-inn",
+            "czepeku-137-beachside-bazaar",
+            "czepeku-139-forgotten-chapel",
+            "czepeku-140-court-of-justice",
+            "czepeku-142-riverwood-toll-castle",
+            "czepeku-146-peaceful-village-church",
+            "czepeku-151-village-blacksmith",
+            "czepeku-156-village-wainwright-shop",
+            "czepeku-162-steam-factory",
+            "czepeku-164-experimental-surgery-theatre",
+            "czepeku-165-desert-caravanserai",
+            "czepeku-168-the-iron-wharf",
+            "czepeku-170-war-room-interior",
+            "czepeku-172-palace-inner-court",
+            "czepeku-174-war-room-exterior",
+            "czepeku-176-slum-district",
+            "czepeku-178-palace-guard-chambers",
+            "czepeku-179-gentle-village-greengrocer",
+            "czepeku-181-medieval-jail",
+            "czepeku-183-yggdrasil-village",
+            "czepeku-185-elven-city-centre",
+            "czepeku-190-goblin-city-centre",
+            "czepeku-191-wizard-bank-interior",
+            "czepeku-194-overground-dwarven-city-centre",
+            "czepeku-195-pastoral-village-stables",
+            "czepeku-197-fortified-dam",
+            "czepeku-198-quaint-village-school",
+            "czepeku-200-grand-cathedral",
+            "czepeku-202-warforged-city-centre",
+            "czepeku-206-monster-hunter-restaurant",
+            "czepeku-212-monster-fighting-pit",
+            "czepeku-214-gnome-city-centre",
+            "czepeku-218-fey-tavern",
+            "czepeku-221-hidden-witches-hut",
+            "czepeku-223-village-hunting-guild",
+            "czepeku-224-motte-and-bailey-castle",
+            "czepeku-225-grand-cathedral-interior",
+            "czepeku-229-village-bakery",
+            "czepeku-231-iron-age-hamlet",
+            "czepeku-234-village-farmhouse",
+            "czepeku-237-trainwreck-village",
+            "czepeku-238-alchemy-district",
+            "czepeku-239-jousting-tournament",
+            "czepeku-240-hells-cocktail-lounge",
+            "czepeku-241-salt-plains-observatory",
+            "czepeku-242-celestial-chapel",
+            "czepeku-243-tropical-island-village",
+            "czepeku-244-celestial-chapel-interior",
+            "czepeku-245-imperial-bath-complex",
+            "czepeku-246-fairy-treetop-village",
+            "czepeku-247-magisters-market",
+            "czepeku-250-fjordside-cabin"
+          ]
+        },
+        {
+          "name": "Caverns & Dungeons",
+          "sorting": "a",
+          "packs": [
+            "czepeku-05-abandoned-mine-entrance",
+            "czepeku-11-minotaur-labyrinth",
+            "czepeku-14-underdark-drow-manor",
+            "czepeku-52-pharoahs-tomb",
+            "czepeku-61-treetop-dungeon",
+            "czepeku-82-necropolis-entrance",
+            "czepeku-83-necropolis-dungeon",
+            "czepeku-111-tomb-of-sand",
+            "czepeku-138-hellfire-prison",
+            "czepeku-144-mushroom-infested-mines",
+            "czepeku-154-blacksmith-secret-grotto",
+            "czepeku-155-elder-brain-spine-mine",
+            "czepeku-160-alchemy-dungeon",
+            "czepeku-180-cave-temple",
+            "czepeku-182-wizard-vault",
+            "czepeku-193-burial-barrow",
+            "czepeku-199-yggdrasil-roots",
+            "czepeku-211-wizard-prison-part-1",
+            "czepeku-213-wizard-prison-part-2",
+            "czepeku-215-monster-genealogy-lab",
+            "czepeku-216-sewer-tunnels",
+            "czepeku-226-grand-cathedral-crypt",
+            "czepeku-227-wizard-prison-part-4",
+            "czepeku-228-ancient-tech-treasury",
+            "czepeku-230-lich-catacomb",
+            "czepeku-235-tomb-of-sand-interior",
+            "czepeku-236-wizard-prison-part-5"
+          ]
+        },
+        {
+          "name": "Creature Lairs",
+          "sorting": "a",
+          "packs": [
+            "czepeku-04-goblin-bridge",
+            "czepeku-06-ogre-queen-feast",
+            "czepeku-13-ancient-wizards-lair",
+            "czepeku-26-cavern-of-the-venom-queen",
+            "czepeku-27-lair-of-the-giant-eye-monster",
+            "czepeku-34-elder-brain-lair",
+            "czepeku-48-ancient-hydra-lair",
+            "czepeku-50-bullywug-swamp",
+            "czepeku-59-green-dragon-lair",
+            "czepeku-65-blue-dragon-lair",
+            "czepeku-66-baba-yagas-domain",
+            "czepeku-67-beached-kraken",
+            "czepeku-68-pseudodragon-lair",
+            "czepeku-71-medusas-wake",
+            "czepeku-99-oni-hideout",
+            "czepeku-100-void-dragon-lair",
+            "czepeku-105-clockwork-dragon-lair-exterior",
+            "czepeku-109-clockwork-dragon-lair-interior",
+            "czepeku-119-pirate-lords-lair",
+            "czepeku-145-annis-hag-lair",
+            "czepeku-150-djinn-gardens",
+            "czepeku-153-elder-brain-sacrum-shrine",
+            "czepeku-159-nightmare-dragon-lair",
+            "czepeku-161-nymph-fountain",
+            "czepeku-163-bone-dryad-ossuary",
+            "czepeku-167-spider-queen-throne",
+            "czepeku-187-secret-sailor-lair",
+            "czepeku-188-dragons-hoard"
+          ]
+        },
+        {
+          "name": "Forests & Wilds",
+          "sorting": "a",
+          "packs": [
+            "czepeku-03-land-of-giants",
+            "czepeku-07-mountaintop-altar",
+            "czepeku-09-fey-village",
+            "czepeku-21-ancient-battlefield",
+            "czepeku-23-antlion-canyon",
+            "czepeku-29-depths-of-the-festerwood",
+            "czepeku-31-drakescale-peak",
+            "czepeku-42-overgrown-magic-forest",
+            "czepeku-44-serene-lakeside",
+            "czepeku-70-crossroads",
+            "czepeku-75-desert-canyon",
+            "czepeku-76-forest-shrine-festival",
+            "czepeku-78-open-ocean",
+            "czepeku-87-harpy-cove",
+            "czepeku-91-secret-fey-fountain",
+            "czepeku-92-geothermal-rift",
+            "czepeku-96-temple-pastures",
+            "czepeku-101-ages-of-the-vale-1",
+            "czepeku-102-ages-of-the-vale-2",
+            "czepeku-103-ages-of-the-vale-3",
+            "czepeku-106-ropebridge-chasm",
+            "czepeku-112-banshee-moor",
+            "czepeku-114-abyssal-fall",
+            "czepeku-115-badger-hill",
+            "czepeku-122-smugglers-fen",
+            "czepeku-129-clifftop-warcamp",
+            "czepeku-133-caravan-roadblock",
+            "czepeku-135-wonderful-wizard-waterfall",
+            "czepeku-141-tutelary-turtle-island",
+            "czepeku-149-mountain-logging-camp",
+            "czepeku-152-rusty-robot-lake",
+            "czepeku-171-tranquil-apiary",
+            "czepeku-173-dark-woods-edge",
+            "czepeku-177-flooded-fey-ruins",
+            "czepeku-184-yggdrasil-trunk",
+            "czepeku-186-yggdrasil-branch-overlook",
+            "czepeku-189-yggdrasil-treetop",
+            "czepeku-192-arctic-expedition",
+            "czepeku-196-dead-angel-reef",
+            "czepeku-201-rebel-camp",
+            "czepeku-205-beachside-cliff",
+            "czepeku-210-mangrove-forest",
+            "czepeku-233-impending-waterfall",
+            "czepeku-248-fallen-ancient-tree",
+            "czepeku-252-roadside-ambush"
+          ]
+        },
+        {
+          "name": "Miscellaneous & Exotic",
+          "sorting": "a",
+          "packs": [
+            "czepeku-20-realm-of-dreams",
+            "czepeku-32-mid-air-dragon-flight",
+            "czepeku-43-airships-part-1",
+            "czepeku-45-lightning-rail-1",
+            "czepeku-58-bag-of-holding",
+            "czepeku-62-celestial-realm",
+            "czepeku-69-warforged-titan-scrapyard",
+            "czepeku-72-lighning-rail-2",
+            "czepeku-77-impact-site",
+            "czepeku-90-astral-plane",
+            "czepeku-95-celestial-gate",
+            "czepeku-98-airships-part-2",
+            "czepeku-108-airships-part-3",
+            "czepeku-123-desert-ruins",
+            "czepeku-128-ruined-courtyard",
+            "czepeku-131-the-forbidden-gates",
+            "czepeku-132-bone-mill-exterior",
+            "czepeku-134-bone-mill-part-2",
+            "czepeku-143-dwarven-throne-hall",
+            "czepeku-147-elven-magitech-portal",
+            "czepeku-148-the-crystal-veil",
+            "czepeku-157-hanging-gardens",
+            "czepeku-158-megalith-gate",
+            "czepeku-169-jungle-temple-entrance",
+            "czepeku-175-mycelial-gate",
+            "czepeku-203-ancient-stepwell",
+            "czepeku-204-haunted-ghost-ship-exterior",
+            "czepeku-207-archaeological-dig",
+            "czepeku-208-haunted-ghost-ship-interior",
+            "czepeku-209-chrono-chaos-ruins",
+            "czepeku-249-prismatic-ballroom"
+          ]
+        }
+      ]
+    }
+  ],
+
+  "url": "https://github.com/seu-usuario/seu-repositorio",
+  "manifest": "https://github.com/seu-usuario/seu-repositorio/releases/latest/download/module.json",
+  "download": "https://github.com/seu-usuario/seu-repositorio/releases/latest/download/module.zip"
+}

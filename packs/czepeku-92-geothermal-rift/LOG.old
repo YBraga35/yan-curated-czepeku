@@ -1,0 +1,16 @@
+2025/08/06-14:34:50.073 60c8 Recovering log #3
+2025/08/06-14:34:50.081 60c8 Level-0 table #5: started
+2025/08/06-14:34:50.093 60c8 Level-0 table #5: 1881425 bytes OK
+2025/08/06-14:34:50.099 60c8 Delete type=0 #3
+2025/08/06-14:34:50.099 60c8 Delete type=3 #2
+2025/08/06-14:36:53.337 5e30 Level-0 table #8: started
+2025/08/06-14:36:53.351 5e30 Level-0 table #8: 865841 bytes OK
+2025/08/06-14:36:53.353 5e30 Delete type=0 #6
+2025/08/06-14:36:53.367 5e30 Manual compaction at level-0 from '!scenes!0dlXyGN6dyooOvrj' @ 72057594037927935 : 1 .. '!scenes.walls!xMaIbLg1LiJYgU4h.zzQOJKMkWOSNNbDJ' @ 0 : 0; will stop at '!scenes.walls!xMaIbLg1LiJYgU4h.zzQOJKMkWOSNNbDJ' @ 9031 : 1
+2025/08/06-14:36:53.367 5e30 Compacting 2@0 + 0@1 files
+2025/08/06-14:36:53.387 5e30 Generated table #9@0: 9156 keys, 865841 bytes
+2025/08/06-14:36:53.387 5e30 Compacted 2@0 + 0@1 files => 865841 bytes
+2025/08/06-14:36:53.389 5e30 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-14:36:53.389 5e30 Delete type=2 #5
+2025/08/06-14:36:53.391 5e30 Delete type=2 #8
+2025/08/06-14:36:53.421 5e30 Manual compaction at level-0 from '!scenes.walls!xMaIbLg1LiJYgU4h.zzQOJKMkWOSNNbDJ' @ 9031 : 1 .. '!scenes.walls!xMaIbLg1LiJYgU4h.zzQOJKMkWOSNNbDJ' @ 0 : 0; will stop at (end)
