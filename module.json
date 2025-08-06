@@ -2,21 +2,21 @@
   "id": "yan-curated-czepeku",
   "title": "Yan's Curated Cze & Peku Collection",
   "description": "Uma coleção consolidada de todos os pacotes de mapas de Cze & Peku, organizados para facilitar o uso e a busca dentro do Foundry VTT.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Cze and Peku",
       "url": "https://www.czepeku.com/"
     },
     {
-      "name": "Yan",
-      "email": "",
-      "url": ""
+      "name": "DmYan",
+      "email": "dungeonmasteryan@gmail.com",
+      "url": "https://github.com/YBraga35"
     }
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "12.327"
+    "verified": "12.343"
   },
   "relationships": {
     "systems": [
@@ -3344,7 +3344,7 @@
     }
   ],
 
-  "url": "https://github.com/seu-usuario/seu-repositorio",
-  "manifest": "https://github.com/seu-usuario/seu-repositorio/releases/latest/download/module.json",
-  "download": "https://github.com/seu-usuario/seu-repositorio/releases/latest/download/module.zip"
+  "url": "https://github.com/YBraga35/yan-curated-czepeku",
+  "manifest": "https://github.com/YBraga35/yan-curated-czepeku/releases/latest/download/module.json",
+  "download": "https://github.com/YBraga35/yan-curated-czepeku/releases/download/v1.1.0/module.zip"
 }
